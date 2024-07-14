@@ -228,7 +228,7 @@ export const projects = [
     ],
     category: "Deep Learning",
     github: "https://github.com/Nikmal8/Age_and_gender_detection",
-    // webapp: "https://decisionhub.netlify.app/",
+    webapp: "https://github.com/user-attachments/assets/7bc23f9d-2485-48b3-89dd-08279c2abba1",
   },
   {
     id: 2,
