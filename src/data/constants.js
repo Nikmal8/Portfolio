@@ -248,7 +248,7 @@ export const projects = [
     ],
     category: "Deep Learning",
     github: "https://github.com/Nikmal8/EMOTION_DETECTION",
-    // webapp: "https://decisionhub.netlify.app/",
+    webapp: "https://github.com/user-attachments/assets/5ad9dc85-21a6-4c30-b34e-bf265e55b49b",
   },
   {
     id: 3,
@@ -346,7 +346,7 @@ export const projects = [
     ],
     category: "Machine Learning",
     github: "https://github.com/Nikmal8/movie-recommender-system",
-    // webapp: "https://decisionhub.netlify.app/",
+    webapp: "https://github.com/user-attachments/assets/14ab0545-075f-4fc4-943c-de018414ff2b",
   },
   {
     id: 8,
@@ -429,7 +429,7 @@ export const projects = [
     ],
     category: "NLP",
     github: "https://github.com/Nikmal8/NLP-Project-Twitter-Sentiment-Analysis",
-    // webapp: "https://decisionhub.netlify.app/",
+    webapp: "https://github.com/user-attachments/assets/036e92a8-06a5-432b-a68e-cd760a9e84db",
   },
   {
     id: 12,
