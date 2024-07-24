@@ -227,8 +227,8 @@ export const projects = [
       "Steamlit",
     ],
     category: "Deep Learning",
-    github: "https://github.com/Nikmal8/Age_and_gender_detection",
-    webapp: "https://github.com/user-attachments/assets/7bc23f9d-2485-48b3-89dd-08279c2abba1",
+    github: "https://github.com/Nikmal8/Age_and_Gender_Prediction.git",
+    webapp: "https://ageandgenderprediction-kdxnwr27crak47vkuwukqx.streamlit.app/",
   },
   {
     id: 2,
