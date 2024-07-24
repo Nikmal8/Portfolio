@@ -4,12 +4,12 @@ Welcome to my Project! This project showcases my skills, projects, and experienc
 ### Weblink: [Live Website](https://main--nikmal8.netlify.app/)
 
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/6b14cb76-27df-4ce0-a2aa-e89b64025fa"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/6d2db9e3-14c5-4bf2-9661-2bdb9f061128"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/6eabdf24-3641-462c-b0c1-77ce89bd3d91"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/a2db6334-ace0-46d3-b4b6-da9d83d9e178"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/240887e6-c72e-4e8e-90b2-ce8da632d7d9"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/b91f1b62-71d2-4c20-ac88-1ce661f93323"/>
 
 
 ## Table of Contents
