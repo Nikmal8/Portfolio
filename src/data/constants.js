@@ -387,7 +387,7 @@ export const projects = [
     ],
     category: "Data Analysis",
     github: "https://github.com/Nikmal8/olympics-data-analysis",
-    // webapp: "https://decisionhub.netlify.app/",
+    webapp: "https://olympics-data-analysis-bdvh7kgtyxmg6zem6el5py.streamlit.app/",
   },
   {
     id: 10,
