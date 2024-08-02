@@ -248,7 +248,7 @@ export const projects = [
     ],
     category: "Deep Learning",
     github: "https://github.com/Nikmal8/EMOTION_DETECTION",
-    webapp: "https://github.com/user-attachments/assets/5ad9dc85-21a6-4c30-b34e-bf265e55b49b",
+    webapp: "https://emotiondetection-xzx7zeq3vxlzdjvfqepbys.streamlit.app/",
   },
   {
     id: 3,
