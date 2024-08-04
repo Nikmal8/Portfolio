@@ -272,7 +272,7 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Parking Space",
+    title: "Object Detection",
     date: "sep 2023 - oct 2023",
     description:
       "A Paking Detection App that pridict the parking space in the parking area. It is a Deep Learning based project the detect the parking space using the help of model that is created by tha large amount of data and the data having multiple image samples for every category",
@@ -287,7 +287,7 @@ export const projects = [
     ],
     category: "Deep Learning",
     github: "https://github.com/Nikmal8/parking-space-counter",
-    // webapp: "https://decisionhub.netlify.app/",
+    webapp: "https://objectdetection-thvwwezjyntdepe3luqktl.streamlit.app/",
   },
   {
     id: 5,
@@ -329,11 +329,11 @@ export const projects = [
   },
   {
     id: 7,
-    title: "Movie Recommended System",
+    title: "Music Recommended System",
     date: "June 2022 - July 2022",
     description:
-      "A Movie Recommended System that is recommend the next five movies releted to input. It is a Machine Learning based project recommend the five movies using the help of model that is created by the dataset.",
-    image: Movie_Recommended_System,
+      "A Music Recommended System that is recommend the next five musics releted to input. It is a Machine Learning based project recommend the five music using the help of model that is created by the dataset.",
+    image: Movis_Recommended_System,
     tags: [
       "Python",
       "Numpy",
@@ -345,8 +345,8 @@ export const projects = [
       "Machine Learning"
     ],
     category: "Machine Learning",
-    github: "https://github.com/Nikmal8/movie-recommender-system",
-    webapp: "https://github.com/user-attachments/assets/14ab0545-075f-4fc4-943c-de018414ff2b",
+    github: "https://github.com/Nikmal8/Music_Recommender_System.git",
+    webapp: "https://musicrecommendersystem-dxk5pq2apezdpydygyrlvi.streamlit.app/",
   },
   {
     id: 8,
@@ -430,28 +430,6 @@ export const projects = [
     category: "NLP",
     github: "https://github.com/Nikmal8/NLP-Project-Twitter-Sentiment-Analysis",
     webapp: "https://github.com/user-attachments/assets/036e92a8-06a5-432b-a68e-cd760a9e84db",
-  },
-  {
-    id: 12,
-    title: "Resume Screening App",
-    date: "Feb 2024 - Feb 2024",
-    description:
-      "A Resume Screening App that see the all data in the resume and fix the resume. It is a Natural Language Processing based project that seen the resume and fix the all errors using the help of model that is created by tha dataset",
-    image: Resume_Screening_App,
-    tags: [
-      "Python",
-      "Numpy",
-      "Pandas",
-      "Pickle",
-      "Sklearn",
-      "Deep Learning",
-      "TensorFlow",
-      "NLP",
-      "Streamlit",
-    ],
-    category: "NLP",
-    github: "https://github.com/Nikmal8/Resume-Screening-App",
-    // webapp: "https://decisionhub.netlify.app/",
   },
 ];
 
